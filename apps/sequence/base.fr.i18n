@@ -1,5 +1,5 @@
-SequenceApp = "Suites"
-SequenceAppCapital = "SUITES"
+SequenceApp = "Après"
+SequenceAppCapital = "APRÈS"
 SequenceTab = "Suites"
 AddSequence = "Ajouter une suite"
 ChooseSequenceType = "Choisir le type de suite"
