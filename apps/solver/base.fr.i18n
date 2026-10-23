@@ -1,5 +1,5 @@
-SolverApp = "Équations"
-SolverAppCapital = "ÉQUATIONS"
+SolverApp = "Qui est x"
+SolverAppCapital = "QUI EST X"
 AddEquation = "Ajouter une équation"
 ResolveEquation = "Résoudre l'équation"
 ResolveSystem = "Résoudre le système"
