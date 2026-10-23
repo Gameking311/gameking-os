@@ -1,5 +1,5 @@
-SettingsApp = "Paramètres"
-SettingsAppCapital = "PARAMÈTRES"
+SettingsApp = "Configurer"
+SettingsAppCapital = "CONFIGURER"
 AngleUnit = "Unité d'angle"
 DisplayMode = "Format résultat"
 EditionMode = "Format écriture"
