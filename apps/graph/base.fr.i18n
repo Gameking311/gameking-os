@@ -1,5 +1,5 @@
-FunctionApp = "Fonctions"
-FunctionAppCapital = "FONCTIONS"
+FunctionApp = "Traits"
+FunctionAppCapital = "TRAITS"
 FunctionTab = "Fonctions"
 AddFunction = "Ajouter une fonction"
 DeleteFunction = "Supprimer la fonction"
