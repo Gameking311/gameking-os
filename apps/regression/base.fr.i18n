@@ -1,5 +1,5 @@
-RegressionApp = "Régressions"
-RegressionAppCapital = "RÉGRESSIONS"
+RegressionApp = "Prédictions"
+RegressionAppCapital = "PRÉDICTIONS"
 Regression = "Régression"
 MeanDot = "moyen"
 RegressionCurve = "Courbe de régression"
