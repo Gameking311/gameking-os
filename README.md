@@ -26,7 +26,7 @@ Upsilon is a fork of Omega, an user-made OS that runs on the NumWorks calculator
 <br>
 
 ## Installation
-
+`make epsilon.onboarding.A_flash MODEL=bootloader -j8 THEME_NAME=gameking_os`
 ### Installer
 
 Go to the [Upsilon website](https://getupsilon.web.app/) to the "Install" section.

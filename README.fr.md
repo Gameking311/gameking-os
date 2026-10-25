@@ -25,7 +25,7 @@ Upsilon est un fork d'Omega, un fork d'Epsilon, l'OS de NumWorks tournant sur le
 - *Ainsi que tout ce qui a été ajouté sur Omega, et bien plus...* [Changelogs complets d'Omega](https://github.com/Omega-Numworks/Omega/wiki/Changelog) | [Fonctionnalités principales d'Omega & captures d'écran](https://github.com/Omega-Numworks/Omega/wiki/Main-features).
 
 ## Installation
-
+`make epsilon.onboarding.A_flash MODEL=bootloader -j8 THEME_NAME=gameking_os`
 ### Site web
 
 Rendez-vous sur le [site d'Upsilon](https://getupsilon.web.app/) à la section "Installer".
