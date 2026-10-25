@@ -3,17 +3,17 @@
     "icons": "gameking_os",
     "colors": {
         "PrimaryText": "000000",
-        "SecondaryText": "a7a7a7",
-        "AccentText": "ffb734",
+        "SecondaryText": "748a82",
+        "AccentText": "00857f",
         "ApproximateSignText": "8c8c8c",
         "ApproximateExpressionText": "8c8c8c",
         "Background": {
-            "Hard": "ffffff",
-            "Apps": "f7f9fa",
-            "AppsSecondary": "e0e6ed"
+            "Hard": "a3de8a",
+            "Apps": "a3de8a",
+            "AppsSecondary": "ffffff"
         },
         "Toolbar": {
-            "": "ffb734",
+            "": "24751c",
             "Text": "ffffff"
         },
         "ExpressionInput": {
@@ -121,11 +121,11 @@
             "SecondText": "ffffff"
         },
         "Home": {
-            "Background": "ffffff",
-            "CellBackground": "ffffff",
-            "CellBackgroundActive": "ffb734",
-            "CellText": "000000",
-            "CellTextActive": "ffffff",
+            "Background": "a3de8a",
+            "CellBackground": "a3de8a",
+            "CellBackgroundActive": "ffffff",
+            "CellText": "24751c",
+            "CellTextActive": "24751c",
             "CellTextExternal": "008f87",
             "CellTextExternalActive": "6fe6df"
         },

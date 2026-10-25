@@ -17,7 +17,8 @@ While compiling Omega, add the `THEME_NAME` flag :
 make THEME_NAME=the_name_of_the_theme -j4
 ```
 
-There are 4 themes:
+There are 5 themes:
+* Gameking OS (`THEME_NAME=gameking_os`)
 * Omega Light (`THEME_NAME=omega_light`)
 * Omega Dark (`THEME_NAME=omega_dark`)
 * Epsilon Light (`THEME_NAME=epsilon_light`)
